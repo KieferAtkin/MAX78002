@@ -1,3 +1,3 @@
 # MAX78002
  
-## Edited the HelloWorld example.
+Edited the HelloWorld example.
