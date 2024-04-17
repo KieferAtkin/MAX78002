@@ -1,3 +1,5 @@
 # MAX78002
- 
-Edited the HelloWorld example.
+
+## Max78002 LED Blink
+
+<video src="Max78002_LED_Blink_2.mp4" controls title="Title"></video>
